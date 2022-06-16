@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+header{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+header h1{
+    color: aquamarine;
+    font-size: 16px;
+}
+header h1 a{
+    color: rgb(127, 255, 212, 0.8);
+}
+aside{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+aside h2{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+aside h3{
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+}
+article h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin-bottom: 50px;
+}
+article {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+article h1{
+    color: aquamarine;
+    font-size: 16px;
+}
+article h1 a{
+    color: rgb(127, 255, 212, 0.8);
+}
+footer{
+    text-align: right;
+}
+footer h6{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: gray;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
